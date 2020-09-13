@@ -1,4 +1,4 @@
-**Suggestions for learning**
+**Commonly-used data structures and algorithms**
 
 ([Previous Page](why-so-important.md))
 
