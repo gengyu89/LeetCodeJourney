@@ -20,11 +20,11 @@ For people who would like to improve their coding style in Python, here are book
 * Python Cookbook 3rd Edition
 * Data Structures and Algorithms Using Python by Rance D. Necaise
 
-Python Cookbook is the best reference to demonstrate "how to avoid programming like a novice": closures, descriptors, containers, decorators, context managers, coroutines, lazy properties, attrgetter, itemgetter, and so on.
+*Python Cookbook* is the best reference to demonstrate "how to avoid programming like a novice": closures, descriptors, containers, decorators, context managers, coroutines, lazy properties, attrgetter, itemgetter, and so on.
 
 Python has many advanced features that can make object-oriented programming much more comfortable, manageable, and straightforward. Most people do not even know them, sadly. These features can help you improve your developing efficiency dramatically, although they are not in any way associated with execution efficiency.
 
-Necaise is the best introductory-level guidance for abstract data types (ADT). Topics like the following can be found in this book:
+*Necaise* is the best introductory-level guidance for abstract data types (ADT). Topics like the following can be found in this book:
 * What is the definition of "average probing length" by Donald Knuth?
 * When do primary and secondary clusterings happen in a hash mapping operation?
 * List several ways of computing amortized cost (answer: aggregate method, bankers' method, physicists' method).
