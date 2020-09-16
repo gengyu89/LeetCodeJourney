@@ -2,7 +2,7 @@
 
 ([Previous Page](why-so-important.md))
 
-LeetCode is one of the most fabulous websites for testing your problem-solving abilities in "Computer Science manners" (concretely, choosing proper data structures, and implementing algorithms to satisfy certain requirements). The time limitations of LeetCode's problems are super strict. Brute-force can be used to pass a limited number of them. To make things more challenging, all LeetCode problems have limitations on memory usage.
+[LeetCode](https://leetcode.com/) is one of the most fabulous websites for testing your problem-solving abilities in "Computer Science manners" (concretely, choosing proper data structures, and implementing algorithms to satisfy certain requirements). The time limitations of LeetCode's problems are super strict. Brute-force can be used to pass a limited number of them. To make things more challenging, all LeetCode problems have limitations on memory usage.
 
 In order to help you tackle these problems, I would like to provide some learning and preparation suggestions. They may work for both coding contests and job interviews.
 
